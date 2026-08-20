@@ -1,0 +1,11 @@
+.DS_Store
+
+# Local Python artifacts and personal study data
+backend/**/__pycache__/
+backend/.pytest_cache/
+backend/build/
+backend/dist/
+backend/data/
+
+# Packaged desktop output (kept locally, not committed)
+frontend/release/
